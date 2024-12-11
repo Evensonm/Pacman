@@ -315,3 +315,40 @@ body {
   left: 3em;
 }
 
+.line {
+  border-left: 4px solid darkblue;
+  height: 10%;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 10%;
+}
+
+.line2 {
+  border-left: 4px solid darkblue;
+  height: 10%;
+  position: absolute;
+  left: 51%;
+  margin-left: -3px;
+  top: 10%;
+}
+
+.line3 {
+  border-left: 4px solid darkblue;
+  height: 10%;
+  position: absolute;
+  left: 57%;
+  margin-left: -3px;
+  top: 10%;
+}
+
+.line4 {
+  border-left: 4px solid darkblue;
+  height: 10%;
+  position: absolute;
+  left: 58%;
+  margin-left: -3px;
+  top: 10%;
+}
+
+
